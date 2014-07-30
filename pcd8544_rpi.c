@@ -49,7 +49,7 @@ int _cs = 3;
   
 // lcd contrast 
 //may be need modify to fit your screen!  normal: 30- 90 ,default is:45 !!!maybe modify this value!
-int contrast = 45;  
+int contrast = 60;  
   
 int main (void)
 {
