@@ -4,7 +4,7 @@ A program showing CPU info on PCD8544 running on RasPi
 ### How to build and run
 1. Download and setup [wiringPi](https://projects.drogon.net/raspberry-pi/wiringpi/):
 ```
-git clone git://git.drogon.net/wiringPi`
+git clone git://git.drogon.net/wiringPi
 cd wiringPi
 ./build
 ```  
